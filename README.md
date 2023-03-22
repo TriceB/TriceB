@@ -1,4 +1,4 @@
-[![MasterHead](https://dsm01pap006files.storage.live.com/y4mlgKAHTsiFuhb5DzaIlcfz5n-5HUXtrS640NaXoERFzI67y7h5z2n2GG2kfaKzK73XDv2rMSxvCkQGGXvM31RTrstsVxjpSSutHzbdruaRVKAFz5lGEhDBi0YewxVY7aXu8267pb5Ki8akmmuIfWbnqPa2xSroAkzXLi35aWGInk5hn7-u64dL-BZv7vITtGz?encodeFailures=1&width=1584&height=396)](https://www.mnbrightmon.dev/)
+[![MasterHead](https://github.com/TriceB/TriceB/blob/main/Mon'Trice%20Brightmon.png)](https://www.mnbrightmon.dev/)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mon'Trice (Trice)
